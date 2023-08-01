@@ -18,6 +18,18 @@ SaveSoul integrates a comprehensive messaging system, enabling effective communi
 4. Connect and coordinate with NGOs via the integrated messaging system to discuss donation details and relevant information.
 5. Stay informed about the impact of contributions and gain insights into the NGOs' initiatives supported by the platform.
 
+# Screenshot
+![Screenshot (676)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/2e5f9817-3d1a-40dd-bad2-80e315601053)
+![Screenshot (678)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/30a3ee6e-97f9-462c-af11-bb9c58d0609f)
+![Screenshot (683)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/533bbd51-3662-4fd4-be02-d8c73a832999)
+![Screenshot (684)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/a63987f7-f951-49b2-a245-c51fadc01c07)
+![Screenshot (689)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/52afc8ea-cfd1-49a6-9934-205e0663134e)
+![Screenshot (690)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/07f4c0f8-3b10-4faa-8ca0-da0b6db3af74)
+![Screenshot (692)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/8f5bf6f5-b635-44a4-b489-e539734ab7d1)
+![Screenshot (693)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/17cc0f24-f4f8-4a1e-b002-5844bc445cea)
+![Screenshot (694)](https://github.com/SaifSunny/Food-Money-and-Cloth-Donation-App/assets/72490093/85205d8f-c2a6-4ca8-9f97-a68a72165e19)
+
+
 # GitHub Repository
 Explore the source code and contribute to the SaveSoul project on GitHub: SaveSoul GitHub
 
